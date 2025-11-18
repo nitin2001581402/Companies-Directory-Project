@@ -1,0 +1,16 @@
+{
+  "companies": [
+    {"id":1,"name":"Frontlines Media","location":"Bengaluru","industry":"Media","size":120,"website":"https://frontlines.example"},
+    {"id":2,"name":"BlueWave Tech","location":"Chennai","industry":"Software","size":60,"website":"https://bluewave.example"},
+    {"id":3,"name":"GreenFoods Inc","location":"Mumbai","industry":"F&B","size":200,"website":"https://greenfoods.example"},
+    {"id":4,"name":"Apex Analytics","location":"Bengaluru","industry":"Analytics","size":40,"website":"https://apex.example"},
+    {"id":5,"name":"Oceanic Shipping","location":"Kochi","industry":"Logistics","size":500,"website":"https://oceanic.example"},
+    {"id":6,"name":"Solaris Energy","location":"Hyderabad","industry":"Energy","size":300,"website":"https://solaris.example"},
+    {"id":7,"name":"EduNext","location":"Pune","industry":"EdTech","size":25,"website":"https://edunext.example"},
+    {"id":8,"name":"CarePlus","location":"Delhi","industry":"Healthcare","size":350,"website":"https://careplus.example"},
+    {"id":9,"name":"ByteWorks","location":"Bengaluru","industry":"Software","size":80,"website":"https://byteworks.example"},
+    {"id":10,"name":"TravelSphere","location":"Goa","industry":"Travel","size":45,"website":"https://travelsphere.example"},
+    {"id":11,"name":"FinEdge","location":"Mumbai","industry":"FinTech","size":150,"website":"https://finedge.example"},
+    {"id":12,"name":"GreenBox","location":"Chennai","industry":"E-commerce","size":90,"website":"https://greenbox.example"}
+  ]
+}

@@ -1,0 +1,19 @@
+body { font-family: Arial, sans-serif; background:#f5f6fb; margin:0; padding:0; }
+.container { max-width:1000px; margin:20px auto; padding:20px; background:white; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.05);}
+header h1 { margin:0; }
+.controls { display:flex; gap:10px; align-items:center; margin:16px 0; flex-wrap:wrap; }
+.controls .left { flex:1; }
+.controls .right { }
+.filters input { padding:8px; min-width:220px; border-radius:6px; border:1px solid #ddd; }
+.filters select { padding:8px; border-radius:6px; border:1px solid #ddd; margin-left:8px; }
+.sort-control button { padding:8px 12px; border-radius:6px; border:1px solid #ddd; cursor:pointer; background:#fff; }
+.company-list { display:flex; flex-wrap:wrap; gap:12px; margin-top:12px; }
+.company-card { width:calc(33.333% - 12px); background:#fff; border:1px solid #eee; padding:12px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.03); }
+.company-card h3 { margin:0 0 8px; }
+.company-card a { color:#0077cc; text-decoration:none; }
+.status { padding:20px; text-align:center; color:#333; }
+.status.error { color: #b00020; }
+.pagination { display:flex; gap:8px; justify-content:center; align-items:center; margin-top:16px; }
+.pagination button { padding:8px 10px; border-radius:6px; border:1px solid #ddd; cursor:pointer; background:#fff; }
+@media (max-width:800px) { .company-card { width:calc(50% - 12px); } }
+@media (max-width:480px) { .company-card { width:100%; } .controls { flex-direction:column; align-items:stretch; } }
