@@ -6,8 +6,7 @@ This Companies Directory App is built with React. It allows users to search and 
 
 Below are the screenshots of the app showing the weather for different cities:
 
-|----------------------|--------------------|
-| <img width="1886" height="872" alt="Screenshot 2025-11-19 192757" src="https://github.com/user-attachments/assets/9061e56f-da73-443d-8e66-d21d12ce8aa2" /> | <img width="1919" height="691" alt="Screenshot 2025-11-19 192834" src="https://github.com/user-attachments/assets/38478ee4-15f1-44e8-96ce-65580f75f780" />
+<img width="1886" height="872" alt="Screenshot 2025-11-19 192757" src="https://github.com/user-attachments/assets/9061e56f-da73-443d-8e66-d21d12ce8aa2" /> | <img width="1919" height="691" alt="Screenshot 2025-11-19 192834" src="https://github.com/user-attachments/assets/38478ee4-15f1-44e8-96ce-65580f75f780" />
 
 
 
