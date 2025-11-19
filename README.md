@@ -1,20 +1,19 @@
 Companies Directory App
 
 This Companies Directory App is built with React and Vite. It allows users to search and filter company details. The app fetches real-time data from the Companies API and displays important information such as company name, category, industry, location, and description.
-This Companies Directory App is built with React. It allows users to search and filter companies. The app fetches real-time data from the Companies API and displays important information such as company name, type, and details.
+This Companies Directory App is built with React. It allows users to search and filter companies by type or category. The app fetches real-time data from the Companies API and displays important information such as company name, industry, and company type.
 
 Screenshots
 
-Below are the screenshots of the app showing the companies in different categories:
+Below are the screenshots of the app showing the companies from different categories:
 
 IT Companies	Finance Companies
-
-	
+(Add IT companies screenshot)	(Add finance companies screenshot)
 Features
 
-Real-time company data.
+Real-time company updates.
 
-Displays company name, industry, and description.
+Displays company name, industry, category, and description.
 
 Dynamic filtering based on category or type.
 
